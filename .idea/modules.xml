@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../九大内置对象/application对象/application对象.iml" filepath="$PROJECT_DIR$/../九大内置对象/application对象/application对象.iml" />
+      <module fileurl="file://$PROJECT_DIR$/request对象/request对象.iml" filepath="$PROJECT_DIR$/request对象/request对象.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../九大内置对象/response/response.iml" filepath="$PROJECT_DIR$/../九大内置对象/response/response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../九大内置对象/session对象/session对象.iml" filepath="$PROJECT_DIR$/../九大内置对象/session对象/session对象.iml" />
+      <module fileurl="file://$PROJECT_DIR$/九大内置对象.iml" filepath="$PROJECT_DIR$/九大内置对象.iml" />
+    </modules>
+  </component>
+</project>
